@@ -1,17 +1,31 @@
 # Hassan Abdifatah Mohamud
 
-Software developer with public projects covering web development, data science, and machine learning.
+## Full Stack Developer and Data Science Learner
 
-## Focus Areas
+I am a software developer focused on building practical web applications and strengthening my skills in data science and machine learning. I enjoy turning ideas into clear, usable digital products and continuously exploring new tools and approaches.
 
-1. Frontend and full stack web development.
-2. Data science and machine learning projects.
-3. Continuous learning through practical software projects.
+## What I Work With
 
-## Technologies Represented in Public Repositories
+| Area | Technologies |
+| :--- | :--- |
+| Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
+| Backend and Data | Java, Python, PostgreSQL, Prisma, Streamlit |
+| Data Science | Pandas, scikit learn, Jupyter notebooks |
+| Development Tools | Git, GitHub, Docker |
 
-Java, Python, JavaScript, TypeScript, React, Next.js, Streamlit, Jupyter notebooks, Pandas, scikit learn, PostgreSQL, Prisma, Git, and Docker.
+## Current Focus
+
+1. Building responsive and maintainable web applications.
+2. Developing practical data science and machine learning projects.
+3. Learning advanced machine learning and cloud development concepts.
+
+## Selected Public Work
+
+1. [SYL Shopping Center](https://github.com/hassankaafi72/syl-shopping-center) is a Next.js product catalogue with a PostgreSQL and Prisma data layer.
+2. [House Price Prediction](https://github.com/hassankaafi72/house-price-prediction) is a Streamlit interface for a regression model.
+3. [TIENS Somalia Website](https://github.com/hassankaafi72/-Tiens-Somalia-website) is a React product catalogue website.
+4. [Carshi Restaurant Website](https://github.com/hassankaafi72/Carshi-Restaurant-Webiste) is a React restaurant interface with menu, cart, and reservation views.
 
 ## Contact
 
-xasanfm72@gmail.com
+Email: xasanfm72@gmail.com
